@@ -43,6 +43,9 @@ A continuación, el detalle técnico de cada proyecto incluido en este portafoli
 * ✅ Autenticación **HTTP Basic** con usuarios en memoria (`InMemoryUserDetailsManager`).
 * 🛠️ **Tech:** Spring Security, Postman Auth.
 
+### 🌟 [Pregunta 04: Proyecto Base (Topitop)](https://github.com/Royser-S/topitop-proyecto)
+**Objetivo:** Repositorio independiente del Proyecto Base Integrador.
+* 🔗 **Link al Repositorio:** [github.com/Royser-S/topitop-proyecto](https://github.com/Royser-S/topitop-proyecto)
 ---
 
 ## 🛠️ Stack Tecnológico
